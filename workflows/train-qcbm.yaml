@@ -6,12 +6,12 @@ resources:
   type: git
   parameters:
     url: "git@github.com:zapatacomputing/z-quantum-core.git"
-    branch: "master"
+    branch: "dev"
 - name: z-quantum-qcbm
   type: git
   parameters:
     url: "git@github.com:zapatacomputing/z-quantum-qcbm.git"
-    branch: "master"
+    branch: "dev"
 - name: z-quantum-optimizers
   type: git
   parameters:
